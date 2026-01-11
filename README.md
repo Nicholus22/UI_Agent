@@ -42,7 +42,7 @@ Hard to enforce partial task completion
 
 Screenshots:
 
-![Alt text](Menu&nbspstart.png)
+![Alt text](Menu-start.png)
 ![Alt text](Confirm.png)
 ![Alt text](Complete.png)
 
