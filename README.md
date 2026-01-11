@@ -43,8 +43,8 @@ Hard to enforce partial task completion
 Screenshots:
 
 ![Alt text](path/to/Menu start.png)
-![Alt text](path/to/Confirm.png)
-![Alt text](path/to/Complete.png)
+![Alt text](Confirm.png)
+![Alt text](Complete.png)
 
 
 Normal task completion
