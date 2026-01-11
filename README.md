@@ -42,6 +42,11 @@ Hard to enforce partial task completion
 
 Screenshots:
 
+![Alt text](path/to/Menu start.png)
+![Alt text](path/to/Confirm.png)
+![Alt text](path/to/Complete.png)
+
+
 Normal task completion
 
 Failure + recovery (e.g., invalid date)
